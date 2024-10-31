@@ -3,6 +3,10 @@ sidebar_position: 3
 title: Development Guide
 ---
 
+:::info[Note]
+This content is automatically updated from the repository, in this case from the development_guide.md file.
+:::
+
 # Development guide
 
 ## Initializing the project

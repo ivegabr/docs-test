@@ -3,6 +3,10 @@ sidebar_position: 1
 title: Basic Requirements
 ---
 
+:::info[Note]
+This content is automatically updated from the repository, in this case from the basic_requirements.md file.
+:::
+
 # Basic requirements
 
 ## RSK Node
