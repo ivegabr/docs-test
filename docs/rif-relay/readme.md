@@ -6,12 +6,13 @@ title: Introduction
 # Introduction
 
 :::info[Note]
-This is content is automatically updated from the repository, in this case from the README.md file. Notice that the links to other documents are working properly.
+This content is automatically updated from the repository, in this case from the README.md file. Notice that the links to other documents are working properly.
 :::
 
 # RIF Enveloping V2
 
 A secure transaction relay system to enable users to pay fees using ERC-20 tokens.
+Test. Test. test.
 
 ## Description
 
