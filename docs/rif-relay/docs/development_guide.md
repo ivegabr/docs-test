@@ -3,6 +3,10 @@ sidebar_position: 3
 title: Development Guide
 ---
 
+:::info[Note]
+This content is automatically updated from the repository, in this case from the development_guide.md file.
+:::
+
 # Development guide
 
 ## Initializing the project
@@ -19,7 +23,7 @@ The project has on-chain and off-chain components.
     -   The solidity version used currently is `^0.6.12`.
 -   The `src` directory contains the off-chain components such as `cli`, `relayclient` and `relayserver`. Everything here is coded in `typescript`.
     -   To compile these typescript files, use `yarn tsc`. The changes will appear in the `dist` directory.
--   The `jsrelay` directory contains files for running a Relay Server. See [here](../docs/launching_enveloping.md) for more details.
+-   The `jsrelay` directory contains files for running a Relay Server. See [here](docs/launching_enveloping.md) for more details.
 -   `test` contains the test suite. See section below to learn how to test Enveloping.
 
 ## Testing
