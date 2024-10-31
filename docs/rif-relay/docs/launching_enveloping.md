@@ -3,7 +3,14 @@ sidebar_position: 2
 title: Launching Enveloping
 ---
 
+:::info[Note]
+This content is automatically updated from the repository, in this case from the launching_enveloping.md file.
+:::
+
 # Launching
+
+test.
+test.
 
 ## Prerequisites
 
