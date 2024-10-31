@@ -9,8 +9,6 @@ This content is automatically updated from the repository, in this case from the
 
 # Launching
 
-test.
-test.
 
 ## Prerequisites
 
