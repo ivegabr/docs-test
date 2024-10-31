@@ -9,7 +9,7 @@ This content is automatically updated from the repository, in this case from the
 
 # Launching
 
-This is something that need to be changed.
+This is is something that was changed.
 
 ## Prerequisites
 
