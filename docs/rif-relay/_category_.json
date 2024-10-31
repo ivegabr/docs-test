@@ -1,0 +1,8 @@
+{
+  "label": "Rif Relay",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Rif Relay provides a decentralized relay network for blockchain transactions."
+  }
+}
