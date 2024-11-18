@@ -12,7 +12,6 @@ This content is automatically updated from the repository, in this case from the
 # RIF Enveloping V2
 
 A secure transaction relay system to enable users to pay fees using ERC-20 tokens.
-Test. Test. test.
 
 ## Description
 
