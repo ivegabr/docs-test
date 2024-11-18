@@ -12,6 +12,7 @@ This content is automatically updated from the repository, in this case from the
 ## Initializing the project
 
 To use Enveloping, follow these [steps](../docs/launching_enveloping.md) to build the project.
+Test.
 
 ## Project structure
 
